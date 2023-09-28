@@ -30,7 +30,7 @@ Este repositorio contiene un análisis de datos de ventas mensuales basado en un
 El análisis proporciona información valiosa sobre el comportamiento de las ventas a lo largo del año, los patrones de ventas por hora, la distribución de ventas por ubicación y los productos más vendidos. Estos insights pueden ser útiles para tomar decisiones comerciales estratégicas y optimizar la publicidad y el inventario de productos.
 
 ## Contribuir
-Si deseas contribuir a este proyecto o realizar mejoras en el análisis, no dudes en crear un fork del repositorio y enviar tus contribuciones a través de solicitudes pull.
+Si deseas contribuir a este proyecto o realizar mejoras en el análisis, no dudes en enviar un email a paula.codigos.proyectos@gmail.com
 
 ## Licencia
 Este proyecto se distribuye bajo la licencia (Cátedra Big Data-UPSO).
